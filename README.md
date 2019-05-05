@@ -29,12 +29,12 @@
 
 1. 循环播放的实现需要创建新线程，否则会抛出线程被占用的异常。
 
-   ![](C:\Users\nayuk\Pictures\工作\c#\midi2\replay.JPG)
+   ![](MIDIToolkit/replay.JPG)
 
 2. 调整控件大小的过程中出现了钢琴键盘与背景分离、尺寸不合的问题，所以增加了初始化琴键尺寸的内容。
 
-   ![](C:\Users\nayuk\Pictures\工作\c#\midi2\resize1.JPG)
+   ![](MIDIToolkit/resize1.JPG)
 
-   ![resize2](C:\Users\nayuk\Pictures\工作\c#\midi2\resize2.JPG)
+   ![resize2](MIDIToolkit/resize2.JPG)
 
 实验过程总体较顺利，学到一些新知识，同时对MIDI的工作原理也有了一些了解。
